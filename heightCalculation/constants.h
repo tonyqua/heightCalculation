@@ -2,5 +2,5 @@
 
 namespace myConstants 
 {
-	double my_gravity(9.8);
+	const double my_gravity(9.8);
 }
